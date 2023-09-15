@@ -1,0 +1,222 @@
+* {
+
+   font-family: 'roboto', Helvetica, sans-serif;
+   box-shadow: border-box;
+   align-items: center;
+
+}
+
+
+
+form {
+
+   height: fit-content;
+   width: 300px;
+   border: 2px solid #f7f0f0;
+   padding: 30px;
+   background-image: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&w=1600);
+   border-radius: 15px;
+
+}
+
+h2 {
+
+   align-items: center;
+   margin-bottom: 5px;
+}
+
+input {
+   border-radius: 15px;
+   border: 2px solid #e7eff1;
+   width: 95%;
+   padding: 5px;
+
+
+}
+
+.button {
+   float: right;
+   background: #555;
+   padding: 10px 20px;
+   color: #fff;
+   border-radius: 5px;
+   margin-right: 10px;
+   border: none;
+}
+
+.button:hover {
+   opacity: .7;
+}
+
+.error {
+   background: #F2DEDE;
+   color: #A94442;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+.form {
+   background-color: #f7fafd;
+   display: flex;
+   height: fit-content;
+   justify-content: center;
+
+
+
+}
+
+.link {
+
+   display: flex;
+   justify-content: space-around;
+   justify-content: space-between;
+   /* letter-spacing: 4px; */
+
+
+}
+
+.l {
+   align-items: center;
+   text-decoration: none;
+   color: #20b2d6;
+
+}
+
+.nass {
+
+   color: whitesmoke;
+   font-size: 20px;
+   font-style: italic;
+   font-weight: bold;
+   text-shadow: 2px;
+
+}
+
+.icon{
+   size: 100px;
+}
+
+.top {
+   border-radius: 8px;
+   background-color: rgb(154, 167, 154);
+   text-align: center;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
+
+.mt {
+   height: inherit;
+
+   padding-top: 10px;
+}
+
+.hd {
+
+   font-size: 20px;
+   justify-content: space-around;
+   height: 50px;
+}
+
+.u {
+   align-content: center;
+}
+
+.i {
+
+   padding-left: 30px;
+   padding-right: 30px;
+}
+
+.tag {
+   letter-spacing: 6px;
+   word-wrap: normal;
+   padding-left: 30px;
+   padding-right: 30px;
+}
+
+.bck {
+
+   background-image: url();
+
+}
+
+.end {
+   border-radius: 10px;
+   border: 2px 2px;
+   background-color: black;
+   color: white;
+   height: fit-content;
+}
+
+.s {
+   font-size: small;
+   padding-left: 65px;
+   padding-right: 65px;
+   letter-spacing: 1px;
+}
+
+.v {
+   font-size: small;
+   padding-left: 20px;
+   padding-right: 20px;
+   letter-spacing: 1px;
+
+}
+
+.social {
+
+   height: 20px;
+   padding-top: 1px;
+   padding-bottom: 40px;
+   padding-left: 60px;
+   font-size: 30px;
+
+}
+
+.message {
+
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+hr {
+   scroll-padding-top: 2px;
+}
+
+.cust {
+   display: flex;
+   justify-content: center;
+   background-image: url(https://image.made-in-china.com/201f0j00HKpRTyedZYoc/Motorcycle-Parts-Clutch-for-Cg150-200-Manufacturer-Price-Thickened-12mm-Gear.webp);
+}
+
+.btn {
+   position: relative;
+   left: 75%;
+   background: #555;
+   padding: 10px 20px;
+   color: #fff;
+   border-radius: 5px;
+   margin-right: 8px;
+   border: none;
+}
+
+.btn:hover {
+   opacity: .7;
+}
+
+/*
+contact css co de
+ */
+.fn {
+   background-image: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&w=1600);
+}
+
+/* engine css */
+
+.part {
+   display: flex;
+   justify-content: center;
+   justify-content: center;
+}
